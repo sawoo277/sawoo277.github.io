@@ -1,0 +1,15 @@
+.slide_wrap { position: relative; width: 500px; margin: auto; padding-bottom: 30px; }
+.slide_box { width: 100%; margin: auto; overflow-x: hidden; }
+.slide_content { display: table; float: left; width: 500px; height: 300px; }
+
+.slide_wrap1 { position: relative; width: 500px; margin: auto; padding-bottom: 30px; }
+.slide_box1 { width: 100%; margin: auto; overflow-x: hidden; }
+.slide_content1 { display: table; float: left; width: 500px; height: 300px; }
+
+.slide_wrap2 { position: relative; width: 500px; margin: auto; padding-bottom: 30px; }
+.slide_box2 { width: 100%; margin: auto; overflow-x: hidden; }
+.slide_content2 { display: table; float: left; width: 500px; height: 300px; }
+
+.slide_wrap3 { position: relative; width: 500px; margin: auto; padding-bottom: 30px; }
+.slide_box3 { width: 100%; margin: auto; overflow-x: hidden; }
+.slide_content3 { display: table; float: left; width: 500px; height: 300px; }
